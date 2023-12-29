@@ -1,0 +1,272 @@
+CRITICAL - 2023-12-28 15:46:35 --> Error: Class 'GuzzleHttp\Client' not found
+in APPPATH/Controllers/Admin/Auth/Login.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 15:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 15:47:09 --> Error: Class 'GuzzleHttp\Client' not found
+in APPPATH/Controllers/Admin/Auth/Login.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 15:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 15:48:01 --> Error: Class 'GuzzleHttp\Client' not found
+in APPPATH/Controllers/Admin/Auth/Login.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+CRITICAL - 2023-12-28 15:48:39 --> Error: Class 'GuzzleHttp\Client' not found
+in APPPATH/Controllers/Admin/Auth/Login.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 15:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:50:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 15:52:06 --> ErrorException: Undefined property: stdClass::$meta
+in APPPATH/Controllers/Admin/Auth/Login.php on line 46.
+ 1 APPPATH/Controllers/Admin/Auth/Login.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$meta', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Controllers/Admin/Auth/Login.php', 46, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+CRITICAL - 2023-12-28 15:52:45 --> ErrorException: Undefined property: stdClass::$meta
+in APPPATH/Controllers/Admin/Auth/Login.php on line 46.
+ 1 APPPATH/Controllers/Admin/Auth/Login.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$meta', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Controllers/Admin/Auth/Login.php', 46, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+CRITICAL - 2023-12-28 15:52:50 --> ErrorException: Undefined property: stdClass::$meta
+in APPPATH/Controllers/Admin/Auth/Login.php on line 46.
+ 1 APPPATH/Controllers/Admin/Auth/Login.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$meta', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Controllers/Admin/Auth/Login.php', 46, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+CRITICAL - 2023-12-28 15:52:54 --> ErrorException: Undefined property: stdClass::$meta
+in APPPATH/Controllers/Admin/Auth/Login.php on line 46.
+ 1 APPPATH/Controllers/Admin/Auth/Login.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$meta', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Controllers/Admin/Auth/Login.php', 46, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Auth\Login->login()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Auth\Login))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 15:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 15:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:08:26 --> ErrorException: Trying to get property 'data' of non-object
+in APPPATH/Controllers/Admin/Provider/Provider.php on line 31.
+ 1 APPPATH/Controllers/Admin/Provider/Provider.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'data\' of non-object', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Controllers/Admin/Provider/Provider.php', 31, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:08:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "banner/index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('banner/index.php')
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('banner/index', [], true)
+ 3 APPPATH/Controllers/Admin/Provider/Provider.php(33): view('banner/index', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:09:17 --> ErrorException: Undefined property: stdClass::$trx_no
+in APPPATH/Views/provider/index.php on line 49.
+ 1 APPPATH/Views/provider/index.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$trx_no', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php', 49, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('provider/index', [], true)
+ 5 APPPATH/Controllers/Admin/Provider/Provider.php(33): view('provider/index', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:10:47 --> ErrorException: Undefined property: stdClass::$id
+in APPPATH/Views/provider/index.php on line 56.
+ 1 APPPATH/Views/provider/index.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$id', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php', 56, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('provider/index', [], true)
+ 5 APPPATH/Controllers/Admin/Provider/Provider.php(33): view('provider/index', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:10:56 --> ErrorException: Undefined variable: paginates
+in APPPATH/Views/provider/index.php on line 106.
+ 1 APPPATH/Views/provider/index.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: paginates', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php', 106, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('provider/index', [], true)
+ 5 APPPATH/Controllers/Admin/Provider/Provider.php(33): view('provider/index', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:14:38 --> ErrorException: Undefined property: stdClass::$title
+in APPPATH/Views/provider/index.php on line 54.
+ 1 APPPATH/Views/provider/index.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$title', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php', 54, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('provider/index', [], true)
+ 5 APPPATH/Controllers/Admin/Provider/Provider.php(33): view('provider/index', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:25:25 --> ErrorException: Undefined property: stdClass::$id
+in APPPATH/Views/provider/index.php on line 105.
+ 1 APPPATH/Views/provider/index.php(105): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$id', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php', 105, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/provider/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('provider/index', [], true)
+ 5 APPPATH/Controllers/Admin/Provider/Provider.php(33): view('provider/index', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Provider\Provider->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Provider\Provider))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-28 16:27:54 --> ErrorException: Undefined property: stdClass::$prefix_code
+in APPPATH/Views/contact/index.php on line 100.
+ 1 APPPATH/Views/contact/index.php(100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$prefix_code', '/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/contact/index.php', 100, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/app/Views/contact/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('contact/index', [], true)
+ 5 APPPATH/Controllers/Admin/Contact/Contact.php(33): view('contact/index', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin\Contact\Contact->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Contact\Contact))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/mike/Task/golong/Jelajah_Teknologi_Negeri/frontend_apps/public/index.php')
+INFO - 2023-12-28 16:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 16:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-28 17:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

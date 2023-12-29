@@ -1,0 +1,25 @@
+/* Your Custom CSS Goes here */
+#cardbody-flashsale {
+  max-height: 320px;
+  overflow-y: auto;
+  white-space: nowrap;
+}
+
+#paginations_wl,
+#paginations_exp,
+#paginations_global {
+  /* Konten hanya meluas jika lebih lebar daripada container */
+  width: max-content;
+}
+
+.modal {
+  z-index: 1050;
+}
+
+.modal-backdrop {
+  z-index: 1040;
+}
+
+.select {
+  z-index: 1100;
+}
